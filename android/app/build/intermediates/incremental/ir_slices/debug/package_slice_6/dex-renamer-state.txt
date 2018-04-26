@@ -1,4 +1,4 @@
-#Sun Apr 22 14:52:26 ICT 2018
-base.0=/Users/tomsawyer/wp/app/RN_Apps/placeschecking/android/app/build/intermediates/transforms/dexMerger/debug/7
+#Thu Apr 26 16:59:18 ICT 2018
+base.0=/Users/tomsawyer/wp/app/RN_Apps/placeschecking/android/app/build/intermediates/transforms/dexMerger/debug/22
 path.0=classes.dex
 renamed.0=classes.dex
