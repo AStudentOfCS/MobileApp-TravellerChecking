@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Apr 27 15:15:39 ICT 2018
+0.baseType=DIRECTORY
+0.base=/Users/tomsawyer/wp/app/RN_Apps/placeschecking/android/app/build/intermediates/assets/debug
+0.path=fonts/Ionicons.ttf
+0.set=ASSET
+count=1
