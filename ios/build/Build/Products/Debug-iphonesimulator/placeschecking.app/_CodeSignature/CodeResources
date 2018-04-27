@@ -51,7 +51,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rSEPW/xC3vMIJPvNGUXYkbY4U6g=
+		U50RjOf5glkbmiZRF+feOtJFam0=
+		</data>
+		<key>Ionicons.ttf</key>
+		<data>
+		D3lWcE/mG0nEHqGiIFEkD3AKK0Q=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -63,7 +67,7 @@
 		</data>
 		<key>PlugIns/placescheckingTests.xctest.dSYM/Contents/Resources/DWARF/placescheckingTests</key>
 		<data>
-		9PRPa0SaafFR82eSm2Pm8q5OcMk=
+		NDeRmhEdECG1i8baPi6O6pLQzF8=
 		</data>
 		<key>PlugIns/placescheckingTests.xctest/Info.plist</key>
 		<data>
@@ -75,7 +79,7 @@
 		</data>
 		<key>PlugIns/placescheckingTests.xctest/placescheckingTests</key>
 		<data>
-		9ZA7SvhY18+a3+QMzIP+iJ+dQ7A=
+		zyarU95RnW34pxz6ADs8ordgy48=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -192,6 +196,17 @@
 			npuwVsQMT6N9VGE0YqH9a729MzPY+LnokIqdklNFhIs=
 			</data>
 		</dict>
+		<key>Ionicons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D3lWcE/mG0nEHqGiIFEkD3AKK0Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			u0dnmwuuuEgbf1HGitM65aUmc2y1CxcXzGD/a2X5CKM=
+			</data>
+		</dict>
 		<key>PlugIns/placescheckingTests.xctest.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
@@ -207,11 +222,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9PRPa0SaafFR82eSm2Pm8q5OcMk=
+			NDeRmhEdECG1i8baPi6O6pLQzF8=
 			</data>
 			<key>hash2</key>
 			<data>
-			AyDMDGqyuYyIy0CRqSQc2E9MAbm1EJelW/TWN93gprM=
+			ezSsad/fhegRU2JXUA7EsUy94d6lQdUTXB5noc580xg=
 			</data>
 		</dict>
 		<key>PlugIns/placescheckingTests.xctest/Info.plist</key>
@@ -240,11 +255,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9ZA7SvhY18+a3+QMzIP+iJ+dQ7A=
+			zyarU95RnW34pxz6ADs8ordgy48=
 			</data>
 			<key>hash2</key>
 			<data>
-			ACGhVuy7J/7/8s53d5S5J9naop0eKOTQfRf58MFFCBo=
+			Pkm1w/9dJ5r9wNzRSZAYPbQGHtpLOIh6HfVUjqtrBqs=
 			</data>
 		</dict>
 	</dict>
